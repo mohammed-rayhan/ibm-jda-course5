@@ -51,4 +51,4 @@ This project utilizes publicly available data from Yahoo Finance (via `yfinance`
 
 ## Contact
 
-[Mohammed Rayhanur Rahman Pir] - [[My GitHub Profile Link](https://github.com/mohammed-rayhan)] - [Your Email rayhanpir@gmail.com]
+[Mohammed Rayhanur Rahman Pir] - [[My GitHub Profile Link](https://github.com/mohammed-rayhan)] - [Email rayhanpir@gmail.com]
